@@ -20,4 +20,3 @@ Acme Dashboard is designed to provide Acme managers and teams with a clear, acce
 - User management and authentication
 - Interactive financial reports
 - Integration with external systems
-
