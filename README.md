@@ -12,7 +12,7 @@ Acme Dashboard is designed to provide Acme managers and teams with a clear, acce
 - React
 - Heroicons
 - Tailwind CSS
-- Vercel for Deployment
+- TypeScript
 
 ## Functionalities
 
@@ -20,3 +20,23 @@ Acme Dashboard is designed to provide Acme managers and teams with a clear, acce
 - User management and authentication
 - Interactive financial reports
 - Integration with external systems
+
+### Getting Started
+
+1. **Clone the repository:**
+            git clone git@github.com:your-username/acme-dashboard.git
+
+2. **Install dependencies:**
+            npm install
+
+
+3. **Run the development server:**
+            npm run dev
+
+
+4. **Access the application:**
+Open http://localhost:3000 in your browser.
+
+### License
+
+This project is licensed under the MIT License.
